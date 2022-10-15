@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olahitan
+- 👋 Hi, I’m Olaitan Famuwagun 
 - 👀 I’m interested in DevOPs Engineer, Application Support Engineer, and Data Engineer.
 - 🌱 I’m currently learning Full Stack Development, Azure DevOps, Data Analytics.
 - 💞️ I’m looking to collaborate on Application development project, Data analytic project as a volunteer participant.
